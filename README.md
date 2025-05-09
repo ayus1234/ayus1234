@@ -12,8 +12,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science student at **Amity University Jharkhand**
-- 🌱 Currently exploring **Web Development** and **UI/UX Design**
+- 🌱 Currently exploring **Web Development**
 - 💬 Ask me about **HTML, CSS, JavaScript, and React**
 - 🚀 Always eager to collaborate on interesting projects
 - 🎯 Goal: Contribute to Open Source projects
