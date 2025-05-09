@@ -49,7 +49,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayus1234&show_icons=true&count_private=true&theme=tokyonight&border_radius=10&card_width=500&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ayus1234&show_icons=true&count_private=true&theme=tokyonight&border_radius=10&hide_border=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
