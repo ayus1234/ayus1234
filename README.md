@@ -1,9 +1,7 @@
 # <div align="center">Hi, I'm Ayush Nathani</div>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=38BDAE&center=true&vCenter=true&random=false&width=600&height=100&lines=Passionate+Web+Designer;Problem+Solver;Continuous+Learner;Student+at+Amity+University+Jharkhand" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=38BDAE&center=true&vCenter=true&random=false&width=600&height=100&lines=Passionate+Web+Designer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </div>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/ayush-nathani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/nathaniayush11/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
@@ -11,7 +9,9 @@
   <a href="https://www.facebook.com/ayush.nathani.716"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </div>
 
+
 ## 👨‍💻 About Me
+
 - 🎓 Computer Science student at **Amity University Jharkhand**
 - 🌱 Currently exploring **Web Development** and **UI/UX Design**
 - 💬 Ask me about **HTML, CSS, JavaScript, and React**
@@ -19,7 +19,9 @@
 - 🎯 Goal: Contribute to Open Source projects
 - ⚡ Fun fact: I enjoy designing and solving puzzles
 
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Skills
+
 
 <div align="center">
   <table>
@@ -46,6 +48,7 @@
   </table>
 </div>
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -64,21 +67,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ayus1234&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
 </div>
 
-## 🎨 My Projects
-
-<div align="center">
-  <a href="https://github.com/ayus1234/Project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayus1234&repo=Project1&theme=tokyonight&border_radius=10" alt="Project 1" />
-  </a>
-  <a href="https://github.com/ayus1234/Project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayus1234&repo=Project2&theme=tokyonight&border_radius=10" alt="Project 2" />
-  </a>
-</div>
 
 ## 📈 Activity Graph
+
 [![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayus1234&bg_color=1a1b27&color=38bdae&line=628fdb&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
 ## 🛠️ My Contributions and Workflow
+
 ```mermaid
 gitGraph
    commit
@@ -94,6 +90,7 @@ gitGraph
 ```
 
 ## 📫 Connect With Me
+
 <div align="center">
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://ayush-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio" /></a>
