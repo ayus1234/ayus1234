@@ -1,4 +1,4 @@
-# <div align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Ayush Nathani</div>
+# <div align="center">Hi, I'm Ayush Nathani</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=38BDAE&center=true&vCenter=true&random=false&width=600&height=100&lines=Passionate+Web+Designer;Problem+Solver;Continuous+Learner;Student+at+Amity+University+Jharkhand" alt="Typing SVG" />
@@ -10,8 +10,6 @@
   <a href="https://twitter.com/AyushNathani2"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
   <a href="https://www.facebook.com/ayush.nathani.716"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </div>
-
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 ## 👨‍💻 About Me
 - 🎓 Computer Science student at **Amity University Jharkhand**
