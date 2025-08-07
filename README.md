@@ -59,7 +59,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayus1234&layout=compact&theme=tokyonight" alt="Top Languages" />
 
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ayus1234&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://readme-streak-stats.demolab.com?user=ayus1234&theme=tokyonight" alt="GitHub Streak" />
 
   <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=ayus1234&theme=tokyonight&column=4" alt="GitHub Trophies" />
