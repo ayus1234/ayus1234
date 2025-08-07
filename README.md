@@ -69,7 +69,7 @@
 
 ## 📈 Activity Graph
 
-[![My Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ayus1234&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![My Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayus1234&bg_color=1a1b27&color=38bdae&line=628fdb&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## 🛠️ My Contributions and Workflow
