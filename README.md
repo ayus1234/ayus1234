@@ -58,9 +58,6 @@
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayus1234&layout=compact&theme=tokyonight" alt="Top Languages" />
 
-  <!-- GitHub Streak (temporarily unavailable) -->
-  <img src="https://img.shields.io/badge/GitHub_Streak-Unavailable-red?style=for-the-badge&logo=github" alt="GitHub Streak Unavailable" />
-
   <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=ayus1234&theme=tokyonight&column=4" alt="GitHub Trophies" />
 
