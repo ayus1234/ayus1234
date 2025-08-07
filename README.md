@@ -51,25 +51,25 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ayus1234&show_icons=true&count_private=true&theme=tokyonight&border_radius=10&hide_border=true" alt="GitHub Stats" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayus1234&layout=compact&theme=tokyonight&border_radius=10&card_width=500&langs_count=8" alt="Top Languages" />
-</div>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ayus1234&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayus1234&theme=tokyonight&border_radius=10&card_width=500" alt="GitHub Streak" />
-</div>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayus1234&layout=compact&theme=tokyonight" alt="Top Languages" />
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayus1234&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ayus1234&theme=tokyonight" alt="GitHub Streak" />
+
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=ayus1234&theme=tokyonight&column=4" alt="GitHub Trophies" />
+
 </div>
 
 
 ## 📈 Activity Graph
 
-[![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayus1234&bg_color=1a1b27&color=38bdae&line=628fdb&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![My Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ayus1234&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## 🛠️ My Contributions and Workflow
