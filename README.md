@@ -126,7 +126,11 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ayus1234&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayus1234&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayus1234&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayus1234&theme=tokyonight"/>
 
 </div>
 
