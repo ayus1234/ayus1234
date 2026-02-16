@@ -136,17 +136,61 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayus1234&repo=Netflix-Clone&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/ayus1234/Personal_Portfolio_Website">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ayus1234&repo=Personal_Portfolio_Website&theme=tokyonight&hide_border=true"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayus1234&repo=Amazon-Clone&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/ayus1234/EcoShift---A-Carbon-Footprint-Tracker-App">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ayus1234&repo=EcoShift---A-Carbon-Footprint-Tracker-App&theme=tokyonight&hide_border=true"/>
+</a>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayus1234&repo=Traffic-Sign-Detection&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/ayus1234/E-DALL-E-Image-Generation-and-Expansion-System">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ayus1234&repo=E-DALL-E-Image-Generation-and-Expansion-System&theme=tokyonight&hide_border=true"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayus1234&repo=Facebook-Login-Clone&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/ayus1234/Text-Generation-with-GPT-2">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ayus1234&repo=Text-Generation-with-GPT-2&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/ayus1234/Markov-Chain-Text-Generator">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ayus1234&repo=Markov-Chain-Text-Generator&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/ayus1234/EV_Vehicle_Prediction">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ayus1234&repo=EV_Vehicle_Prediction&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/ayus1234/Gender_and_Age_Detection_System">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ayus1234&repo=Gender_and_Age_Detection_System&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/ayus1234/Traffic_Sign_Detection_System">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ayus1234&repo=Traffic_Sign_Detection_System&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/ayus1234/Color_Detection_System">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ayus1234&repo=Color_Detection_System&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/ayus1234/Stegnography-Toolkit">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ayus1234&repo=Stegnography-Toolkit&theme=tokyonight&hide_border=true"/>
+</a>
 
 </div>
 
