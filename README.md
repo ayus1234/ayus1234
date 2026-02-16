@@ -50,11 +50,11 @@
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayus1234&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ayus1234&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayus1234&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ayus1234&layout=compact&theme=tokyonight)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ayus1234&theme=tokyonight&no-frame=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ayus1234&theme=tokyonight)
 
 
 ## 📈 Activity Graph
