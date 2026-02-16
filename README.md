@@ -26,7 +26,7 @@
 
 # 👨‍💻 About Me
 
-🎓 MCA Student at Indian Institute of Technology (IIT) Patna | 💻 Full Stack Developer | 🧠 Problem Solver | 🚀 Future Software Engineer  
+🎓 MCA Student at IIT Patna | 💻 Full Stack Developer | 🧠 Problem Solver | 🚀 Future Software Engineer  
 
 - 🌱 Learning **Advanced Full Stack Development & System Design**
 - 🧠 Active **LeetCode problem solver**
