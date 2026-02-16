@@ -8,7 +8,7 @@
 
 ---
 
-# 🧠 FAANG Developer Score™
+# 🧠 MAANG Developer Score™
 
 <div align="center">
 
@@ -167,16 +167,6 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/ayus1234/ayus1234/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
-
-# ⚡ Developer Mindset
-
-<div align="center">
-
-"Consistency + Discipline + Focus = FAANG"
 
 </div>
 
