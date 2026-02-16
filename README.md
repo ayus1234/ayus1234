@@ -86,9 +86,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayus1234&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ayus1234&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayus1234&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ayus1234&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -117,20 +117,6 @@
 <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode%20Solved&color=FFA116&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/ayushnathani1234"/>
 
 <img src="https://leetcard.jacoblin.cool/ayushnathani1234?theme=dark&font=Fira%20Code&ext=contest"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayus1234&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayus1234&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayus1234&theme=tokyonight"/>
 
 </div>
 
