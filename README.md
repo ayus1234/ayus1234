@@ -1,97 +1,179 @@
-# <div align="center">Hi, I'm Ayush Nathani</div>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=38BDAE&center=true&vCenter=true&random=false&width=600&height=100&lines=Passionate+Web+Designer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
-</div>
-<div align="center">
-  <a href="https://www.linkedin.com/in/ayush-nathani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/nathaniayush11/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://twitter.com/AyushNathani2"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
-  <a href="https://www.facebook.com/ayush.nathani.716"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-</div>
-
-
-## 👨‍💻 About Me
-
-- 🌱 Currently exploring **Web Development**
-- 💬 Ask me about **HTML, CSS, JavaScript, and React**
-- 🚀 Always eager to collaborate on interesting projects
-- 🎯 Goal: Contribute to Open Source projects
-- ⚡ Fun fact: I enjoy designing and solving puzzles
-
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Skills
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDAE,100:628FDB&height=220&section=header&text=Ayush%20Nathani&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
 
 <div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="33%">
-        <h3 align="center">Frontend</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" alt="Frontend Skills" />
-        </div>
-      </td>
-      <td valign="top" width="33%">
-        <h3 align="center">Backend</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=nodejs,express,php,mongodb,mysql" alt="Backend Skills" />
-        </div>
-      </td>
-      <td valign="top" width="33%">
-        <h3 align="center">Tools</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ps" alt="Tools" />
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=38BDAE&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;FAANG+Level+Software+Engineer+in+Progress;LeetCode+Problem+Solver;Open+Source+Contributor;Building+Scalable+Applications"/>
 
-## 📊 GitHub Analytics
+<img src="https://komarev.com/ghpvc/?username=ayus1234&label=Profile%20Views&color=38BDAE&style=for-the-badge"/>
 
-![GitHub Stats](https://github-readme-stats-omega-one-93.vercel.app/api?username=ayus1234&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats-omega-one-93.vercel.app/api/top-langs/?username=ayus1234&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ayus1234&theme=tokyonight&no-frame=true)
-
-
-## 📈 Activity Graph
-
-[![My Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayus1234&bg_color=1a1b27&color=38bdae&line=628fdb&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-## 🛠️ My Contributions and Workflow
-
-```mermaid
-gitGraph
-   commit
-   commit
-   branch develop
-   checkout develop
-   commit
-   commit
-   checkout main
-   merge develop
-   commit
-   commit
-```
-
-## 📫 Connect With Me
-
-<div align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://ayush-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio" /></a>
 </div>
 
 ---
+
+# 🧠 FAANG Developer Score™
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayus1234&color=38BDAE&style=for-the-badge" alt="Profile Views" />
-  <br><br>
-  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/Rainbow.gif" width="100%">
-  <br><br>
-  <a href="https://github.com/ayus1234"><img src="https://img.shields.io/github/followers/ayus1234?label=Follow&style=social" alt="GitHub followers" /></a>
-  <br>
-  ⭐️ From <a href="https://github.com/ayus1234">Ayush Nathani</a>
+
+<img src="https://img.shields.io/badge/Developer%20Score-Advanced-38BDAE?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Global%20Percentile-Top%2010%25-00C853?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Ready-628FDB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Problem%20Solving-Active-FFA116?style=for-the-badge"/>
+
 </div>
+
+---
+
+# 👨‍💻 About Me
+
+🎓 BCA Graduate | 💻 Full Stack Developer | 🚀 Future FAANG Engineer  
+
+- 🌱 Currently learning **Advanced React, Node.js, and System Design**
+- 🧠 Active **LeetCode problem solver**
+- 🚀 Building **real-world scalable projects**
+- 🎯 Goal: Become **Software Engineer at FAANG-level company**
+- ⚡ Strong focus on **DSA + Development + Consistency**
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ayush-nathani/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://ayush-portfolio.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://github.com/ayus1234">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/ayushnathani1234">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+</div>
+
+---
+
+# 🚀 Tech Stack
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap"/>
+
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php"/>
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayus1234&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayus1234&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ayus1234&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayus1234&theme=tokyo-night&hide_border=true"/>
+
+---
+
+# 🧠 LeetCode Stats
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode%20Solved&color=FFA116&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/ayushnathani1234"/>
+
+<img src="https://leetcard.jacoblin.cool/ayushnathani1234?theme=dark&font=Fira%20Code&ext=contest"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ayus1234&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 💼 Featured Projects
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayus1234&repo=Netflix-Clone&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayus1234&repo=Amazon-Clone&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayus1234&repo=Traffic-Sign-Detection&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayus1234&repo=Facebook-Login-Clone&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌍 Global Developer Analytics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayus1234&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ayus1234/ayus1234/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+# ⚡ Developer Mindset
+
+<div align="center">
+
+"Consistency + Discipline + Focus = FAANG"
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDAE,100:628FDB&height=140&section=footer"/>
+
