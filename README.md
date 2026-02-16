@@ -1,10 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDAE,100:628FDB&height=220&section=header&text=Ayush%20Nathani&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=38BDAE&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;FAANG+Level+Software+Engineer+in+Progress;LeetCode+Problem+Solver;Open+Source+Contributor;Building+Scalable+Applications"/>
+<h1>Ayush Nathani</h1>
 
-<img src="https://komarev.com/ghpvc/?username=ayus1234&label=Profile%20Views&color=38BDAE&style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDAE&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;LeetCode+Problem+Solver;Future+FAANG+Engineer"/>
 
 </div>
 
@@ -174,6 +172,3 @@
 </div>
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDAE,100:628FDB&height=140&section=footer"/>
-
