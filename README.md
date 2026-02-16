@@ -52,14 +52,12 @@
 
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ayus1234&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayus1234&show_icons=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayus1234&layout=compact&theme=tokyonight)
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayus1234&layout=compact&theme=tokyonight" alt="Top Languages" />
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ayus1234&theme=tokyonight)
 
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ayus1234&theme=tokyonight&column=4" alt="GitHub Trophies" />
 
 </div>
 
