@@ -140,18 +140,6 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ayus1234&repo=Personal_Portfolio_Website&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/ayus1234/EcoShift---A-Carbon-Footprint-Tracker-App">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ayus1234&repo=EcoShift---A-Carbon-Footprint-Tracker-App&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/ayus1234/E-DALL-E-Image-Generation-and-Expansion-System">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ayus1234&repo=E-DALL-E-Image-Generation-and-Expansion-System&theme=tokyonight&hide_border=true"/>
-</a>
-
 <a href="https://github.com/ayus1234/Text-Generation-with-GPT-2">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ayus1234&repo=Text-Generation-with-GPT-2&theme=tokyonight&hide_border=true"/>
 </a>
