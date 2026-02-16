@@ -26,13 +26,13 @@
 
 # 👨‍💻 About Me
 
-🎓 BCA Graduate | 💻 Full Stack Developer | 🚀 Future FAANG Engineer  
+🎓 MCA Student at Indian Institute of Technology (IIT) Patna | 💻 Full Stack Developer | 🧠 Problem Solver | 🚀 Future Software Engineer  
 
-- 🌱 Currently learning **Advanced React, Node.js, and System Design**
+- 🌱 Learning **Advanced Full Stack Development & System Design**
 - 🧠 Active **LeetCode problem solver**
 - 🚀 Building **real-world scalable projects**
-- 🎯 Goal: Become **Software Engineer at FAANG-level company**
-- ⚡ Strong focus on **DSA + Development + Consistency**
+- 🎯 Goal: Become a **Software Engineer at FAANG-level company**
+- ⚡ Passionate about **DSA, Web Development, and Open Source**
 
 ---
 
