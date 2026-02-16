@@ -178,7 +178,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayus1234&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayus1234&theme=tokyonight&v=2"/>
 
 </div>
 
