@@ -8,22 +8,6 @@
 
 ---
 
-# 🧠 MAANG Developer Score™
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Developer%20Score-Advanced-38BDAE?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Global%20Percentile-Top%2010%25-00C853?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open%20Source-Ready-628FDB?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Problem%20Solving-Active-FFA116?style=for-the-badge"/>
-
-</div>
-
----
-
 # 👨‍💻 About Me
 
 🎓 MCA Student at IIT Patna | 💻 Full Stack Developer | 🧠 Problem Solver | 🚀 Future Software Engineer  
@@ -33,19 +17,6 @@
 - 🚀 Building **real-world scalable projects**
 - 🎯 Goal: Become a **Software Engineer at FAANG-level company**
 - ⚡ Passionate about **DSA, Web Development, and Open Source**
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayush-nathani/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://ayush-portfolio.netlify.app)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/ayus1234)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/ayushnathani1234)
-
-</div>
 
 ---
 
@@ -196,3 +167,17 @@
 </div>
 
 ---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayush-nathani/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://ayush-portfolio.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/ayus1234)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/ayushnathani1234)
+
+</div>
+
+---
+
