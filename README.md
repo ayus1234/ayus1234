@@ -62,14 +62,34 @@
 
 # 🚀 Tech Stack
 
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+
+</td>
+
+<td align="center" width="33%">
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php" />
+
+</td>
+
+<td align="center" width="33%">
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
