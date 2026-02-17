@@ -83,8 +83,6 @@
 
 # 🧠 LeetCode Stats
 
-# 🧠 LeetCode Stats
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/LeetCode%20Solved-31-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
