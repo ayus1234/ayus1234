@@ -83,13 +83,17 @@
 
 # 🧠 LeetCode Stats
 
+# 🧠 LeetCode Stats
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode%20Solved&color=FFA116&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/ayushnathani1234"/>
+<img src="https://img.shields.io/badge/LeetCode%20Solved-31-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
 <img src="https://leetcard.jacoblin.cool/ayushnathani1234?theme=dark&font=Fira%20Code&ext=contest"/>
 
+
 </div>
+
 
 ---
 
