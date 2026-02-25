@@ -151,7 +151,9 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayus1234&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayus1234&theme=tokyonight&cache_seconds=86400"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayus1234&theme=tokyonight"/>
 
 </div>
 
