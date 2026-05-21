@@ -85,7 +85,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LeetCode%20Solved-31-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/dynamic/json?color=ffa116&label=LeetCode%20Solved&query=totalSolved&url=https%3A%2F%2Fleetcode-api-faisalshohag.vercel.app%2Fayushnathani1234&style=for-the-badge&logo=leetcode&logoColor=white"/>
 
 <img src="https://leetcard.jacoblin.cool/ayushnathani1234?theme=dark&font=Fira%20Code&ext=contest"/>
 
